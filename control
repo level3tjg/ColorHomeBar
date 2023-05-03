@@ -1,0 +1,10 @@
+Package: com.level3tjg.colorhomebar
+Name: ColorHomeBar
+Version: 0.0.7
+Architecture: iphoneos-arm
+Description: Color the homebar based on app icon colors
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.colorhomebar
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
